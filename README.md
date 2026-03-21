@@ -28,25 +28,22 @@ Evoluir de um exercício simples para uma aplicação mais robusta, aplicando co
 * Exibição do IMC com 2 casas decimais
 * Mensagens mais claras e informativas para o usuário
 
+**🎯 Passo 4 — Recomendações personalizadas**
+
+* Indicar quanto o usuário precisa ganhar ou perder peso
+* Tornar o sistema mais útil e prático
+* Aceita vírgula como separador decimal na altura
+* Mensagens mais claras usando f-strings com 2 casas decimais"
 ---
 
 ### 🚧 Em desenvolvimento (roadmap)
 
-**💡 Passo 4 — Cálculo de peso ideal**
 
-* Cálculo do peso mínimo e máximo com base no IMC saudável
-* Uso da fórmula: `peso = IMC × altura²`
-
-**🎯 Passo 5 — Recomendações personalizadas**
-
-* Indicar quanto o usuário precisa ganhar ou perder peso
-* Tornar o sistema mais útil e prático
-
-**🔁 Passo 6 — Loop de execução**
+**🔁 Passo 5 — Loop de execução**
 
 * Permitir múltiplos cálculos sem reiniciar o programa
 
-**⚙️ Passo 7 — Menu interativo**
+**⚙️ Passo 6 — Menu interativo**
 
 * Estrutura com opções:
 
@@ -54,7 +51,7 @@ Evoluir de um exercício simples para uma aplicação mais robusta, aplicando co
   * Ver explicação das faixas
   * Sair
 
-**📊 Passo 8 — Histórico de dados**
+**📊 Passo 7 — Histórico de dados**
 
 * Armazenamento de:
 

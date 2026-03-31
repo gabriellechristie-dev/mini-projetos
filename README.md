@@ -39,7 +39,7 @@ Você precisa perder 18.63 kg para entrar na faixa saudável.
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/gabriellechristie-dev/mini-projetos.git
+git clone https://github.com/gabriellechristie-dev/projeto-bodycheck
 cd mini-projetos/calculadora-imc
 python calculadora_imc.py
 ```

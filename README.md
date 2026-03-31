@@ -36,7 +36,7 @@ Você precisa perder 18.63 kg para entrar na faixa saudável.
 
 ---
 
-## ▶️ Como executar
+## ▶️ Como executar(Git Bash)
 
 ```bash
 git clone https://github.com/gabriellechristie-dev/projeto-bodycheck

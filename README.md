@@ -1,6 +1,6 @@
 # 🧮 BodyCheck
 
-Aplicação web para cálculo de IMC (Índice de Massa Corporal), com classificação automática e sugestão de ajuste de peso para entrar na faixa saudável.
+Aplicação web simples para cálculo de IMC (Índice de Massa Corporal), com classificação automática e sugestão de ajuste de peso para entrar na faixa saudável.
 
 ## 🌐 Demonstração
 

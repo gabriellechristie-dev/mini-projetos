@@ -1,67 +1,53 @@
 # 🧮 BodyCheck
 
-Aplicação em Python para cálculo do IMC (Índice de Massa Corporal), com validação de dados, tratamento de erros e organização do código em funções.
+Aplicação web para cálculo de IMC (Índice de Massa Corporal), com classificação automática e sugestão de ajuste de peso para entrar na faixa saudável.
+
+## 🌐 Demonstração
+
+(https://bodycheck.onrender.com/)
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Cálculo automático do IMC  
-- Classificação por faixa:
+- Cálculo de IMC a partir de peso e altura
+- Classificação automática:
   - Abaixo do peso
-  - Peso ideal
+  - Peso normal
   - Sobrepeso
-  - Obesidade (graus 1, 2 e 3)
-- Recomendações personalizadas (quanto ganhar ou perder peso)  
-- Validação de entradas (valores inválidos ou ≤ 0)  
-- Tratamento de erros com `try/except`  
-- Suporte a vírgula e ponto como separador decimal  
-- Execução contínua (loop)
+  - Obesidade
+- Sugestão de quanto peso ganhar ou perder
+- Interface simples com exibição dinâmica do resultado
 
 ---
-## 💻 Exemplo de uso
-```
-Digite seu peso (kg): 90
-Digite sua altura (m): 1.70
-
-Seu IMC é: 31.14
-Você está com obesidade grau 1!
-Você precisa perder 18.63 kg para entrar na faixa saudável.
-```
------
 
 ## 🛠️ Tecnologias
 
-- Python 3
+- Python
+- Flask
+- HTML
+- CSS
+- Gunicorn (deploy)
 
 ---
 
-## ▶️ Como executar(Git Bash)
+## 📦 Deploy
 
-```bash
-git clone https://github.com/gabriellechristie-dev/projeto-bodycheck
-cd mini-projetos/calculadora-imc
-python calculadora_imc.py
-```
+Este projeto está hospedado no Render.
 
 ---
 
-## 📈 Roadmap
+## 📌 Observação
 
-### ✅ Concluído
-- [x] Cálculo do IMC  
-- [x] Classificação por faixas (baixo peso, normal, sobrepeso, obesidade)  
-- [x] Recomendações de ganho/perda de peso  
-- [x] Validação de entradas (valores inválidos ou ≤ 0)  
-- [x] Tratamento de erros com `try/except`  
-- [x] Suporte a vírgula como separador decimal  
-- [x] Execução contínua (loop)  
-- [x] Organização do código com funções (`def` e `return`)  
+Projeto desenvolvido com foco em prática de:
+
+- Lógica de programação
+- Desenvolvimento web com Flask
+- Integração frontend + backend
+- Deploy de aplicação web
 
 ---
 
-### 🚧 Em desenvolvimento
-- [ ] Menu interativo (CLI)  
-- [ ] Histórico de cálculos  
-- [ ] Versão web simples  
- 
+## 👩‍💻 Autor
+
+Gabrielle Christie
